@@ -69,6 +69,5 @@ plt.show()
 ```
 
 Finaly we display the results graphically: 
-
-
+<img src='sinLinear.png'
 
