@@ -40,3 +40,12 @@ The oval is the area of points around which the linear relationship is calculate
 ![horse.avif](horse.avif)
 
 https://www.youtube.com/watch?v=het9HFqo1TQ
+
+## Python Code
+
+```Python
+import numpy as np
+
+x = np.sqrt(2)
+```
+
