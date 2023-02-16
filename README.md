@@ -6,6 +6,7 @@ The first step of the process is to assign distances between all the points. Thi
 
 The next step is to pick a kernel for the locally weighted regression. Given my current level of understanding, a kernel determines how the locally wieghted regression actually determines the correltions. Each kernel function will make a slightly different output.
 
+$$\sqrt2$$
 
 Here is a diagram representing the process:
 <figure>
