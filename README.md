@@ -17,6 +17,6 @@ width='500px' />
 
 The oval is the area of points around which the linear relationship is calculated, and the kernel is represented by the normal curve at the bottom. 
 
-![horse.avif]
+![horse.avif](horse.avif)
 
 https://www.youtube.com/watch?v=het9HFqo1TQ
