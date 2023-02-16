@@ -17,6 +17,7 @@
   });
 </script>
 
+
 ## Locally Weighted Regression
 
 Locally weighted regression, or lowess, is the concept that when a dataset does not fit a linear regression, such as with a since wave, you can take each observation and apply a linear regression to it and and it's neighbors, going through each observation until the trend line for the data is made up of multiple linear regressions, rather than a sine wave or a normal linear regression. 
